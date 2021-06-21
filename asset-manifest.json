@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/upWork/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/upWork/static/js/main.f2332b08.chunk.js",
-    "main.js.map": "/upWork/static/js/main.f2332b08.chunk.js.map",
-    "runtime-main.js": "/upWork/static/js/runtime-main.4b38771e.js",
-    "runtime-main.js.map": "/upWork/static/js/runtime-main.4b38771e.js.map",
-    "static/js/2.49664113.chunk.js": "/upWork/static/js/2.49664113.chunk.js",
-    "static/js/2.49664113.chunk.js.map": "/upWork/static/js/2.49664113.chunk.js.map",
-    "index.html": "/upWork/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/upWork/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.49664113.chunk.js.LICENSE.txt": "/upWork/static/js/2.49664113.chunk.js.LICENSE.txt"
+    "main.css": "/upwork/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/upwork/static/js/main.f2332b08.chunk.js",
+    "main.js.map": "/upwork/static/js/main.f2332b08.chunk.js.map",
+    "runtime-main.js": "/upwork/static/js/runtime-main.742edd2f.js",
+    "runtime-main.js.map": "/upwork/static/js/runtime-main.742edd2f.js.map",
+    "static/js/2.49664113.chunk.js": "/upwork/static/js/2.49664113.chunk.js",
+    "static/js/2.49664113.chunk.js.map": "/upwork/static/js/2.49664113.chunk.js.map",
+    "index.html": "/upwork/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/upwork/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.49664113.chunk.js.LICENSE.txt": "/upwork/static/js/2.49664113.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b38771e.js",
+    "static/js/runtime-main.742edd2f.js",
     "static/js/2.49664113.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.f2332b08.chunk.js"
