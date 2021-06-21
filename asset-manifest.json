@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/upwork/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/upwork/static/js/main.8023db29.chunk.js",
-    "main.js.map": "/upwork/static/js/main.8023db29.chunk.js.map",
+    "main.js": "/upwork/static/js/main.f8137e83.chunk.js",
+    "main.js.map": "/upwork/static/js/main.f8137e83.chunk.js.map",
     "runtime-main.js": "/upwork/static/js/runtime-main.742edd2f.js",
     "runtime-main.js.map": "/upwork/static/js/runtime-main.742edd2f.js.map",
     "static/js/2.49664113.chunk.js": "/upwork/static/js/2.49664113.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.742edd2f.js",
     "static/js/2.49664113.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.8023db29.chunk.js"
+    "static/js/main.f8137e83.chunk.js"
   ]
 }
